@@ -14,7 +14,7 @@ function diceRollerPlus(rolls){
   return output;
 }
 
-console.log(diceRollerPlus(3));
+console.log(diceRollerPlus(50));
 
 // return an array of random numbers between one and a number that you specify as an argument for a given number of rolls specified in another argument.
 function diceRollerPremium(rolls, maxNumber){
